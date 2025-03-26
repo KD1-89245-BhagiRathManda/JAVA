@@ -1,0 +1,10 @@
+package practiceDemo.hinjewadi;
+
+public class A {
+
+	public int kd1;
+	protected int kd2;
+	int kd3;
+	private int kd4;
+
+}

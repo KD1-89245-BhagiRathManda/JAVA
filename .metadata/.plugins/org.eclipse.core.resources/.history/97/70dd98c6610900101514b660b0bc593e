@@ -1,0 +1,11 @@
+package practiceDemo.hinjewadi;
+
+public class B  extends A{
+	public  void display(String[] args) {
+		System.out.println(kd1);
+		System.out.println(kd1);
+		System.out.println(kd1);
+		System.out.println(kd1);
+	}
+
+}

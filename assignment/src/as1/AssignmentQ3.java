@@ -17,7 +17,7 @@ public static int menu() {
 		System.out.println("1. Do you need Dosa...");
 		System.out.println("2. Do you need Samosa...");
 		System.out.println("3. Do you need Idli...");
-		System.out.println("4. Do you need ...");
+		System.out.println("4. Than ok do ...");
 		System.out.println("*****************************************");
 		choice = sc.nextInt();
 		return choice;
