@@ -1,0 +1,14 @@
+package com.sunbeam;
+
+class Box() {
+	
+}
+
+public class BoxGen {
+
+	public static void main(String[] args) {
+		Box 
+
+	}
+
+}

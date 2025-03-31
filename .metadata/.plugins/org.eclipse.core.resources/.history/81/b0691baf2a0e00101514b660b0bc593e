@@ -1,0 +1,28 @@
+package Practice;
+
+
+
+public class Generic {
+	public static void solve(int n, int d) {
+		int r = 0;
+		if(d == 0) {
+			throw new RuntimeException("Exception");
+			System.out.println("Not possible... ");
+			System.exit(0);
+		}
+		else {
+			r = n/d;
+			System.out.println(r);
+		}
+	}
+	
+	public static void main(String[] args) {
+		int n = 10;
+		int d = 0;
+		solve(n,d);
+		catch (RuntimeException e) {
+			System.out.println("Devide by 0");
+		}
+	}
+
+}

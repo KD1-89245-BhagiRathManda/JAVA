@@ -1,0 +1,37 @@
+package Practice;
+import java.util.*;
+
+
+public class Generic {
+	public static int solve(int n, int d) throws Exception {
+		int r = 0;
+//		if(d == 0) {
+//			throw new RuntimeException();
+////		}
+//		else {
+			r = n/d;
+			System.out.println(r);
+//		}
+		return r;
+	}
+	
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		try {
+			int n = 10;
+			int d = 2;
+			int res = solve(n,d);
+			System.out.println(res);
+		}
+		
+		catch (Exception e) {
+			System.out.println("Devide by 0");
+		}
+		finally {
+			System.out.println("Run...");
+			sc.close();
+		}
+	}
+
+}

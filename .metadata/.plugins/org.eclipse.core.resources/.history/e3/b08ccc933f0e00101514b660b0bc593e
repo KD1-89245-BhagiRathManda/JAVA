@@ -1,0 +1,24 @@
+package com.sunbeam;
+
+class Box{
+	private Object obj;
+
+	public Object getObj() {
+		return obj;
+	}
+
+	public void setObj(Object obj) {
+		this.obj = obj;
+	}
+	
+}
+
+public class BoxGen {
+
+	public static void main(String[] args) {
+		Box b = new Box();
+		
+		b.getObj("");
+	}
+
+}

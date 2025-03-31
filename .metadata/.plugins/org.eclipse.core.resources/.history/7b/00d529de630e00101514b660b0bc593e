@@ -1,0 +1,5 @@
+package com.app.geomatry;
+
+public class Point2D {
+
+}
