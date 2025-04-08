@@ -1,59 +1,57 @@
-149:09:26 Widget Closed: BrowserFrame
-149:09:26 Microsoft.Shutdown.OnWindowClosing
-149:09:26 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
-149:09:26 Microsoft.Browser_Removed
-149:09:26 Microsoft.Shutdown.OnWindowClosing
-149:09:26 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
-149:09:26 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
-149:09:26 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
-149:09:26 Tab11 RenderProcessGone
-149:09:26 Browser11 Close Tab11 at 0
-149:09:26 Tab11 WebContentsDestroyed
-149:09:26 Microsoft.Shutdown.OnWindowClosing
-149:09:26 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
-149:09:26 Widget Closed: BrowserFrame
-149:09:27 Microsoft.Shutdown.OnWindowClosing
-149:09:27 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
-149:09:27 Microsoft.Browser_Removed
-149:09:27 Microsoft.Shutdown.OnWindowClosing
-149:09:27 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
-149:09:27 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
-149:09:27 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
-149:09:27 Tab27 RenderProcessGone
-149:09:27 Browser27 Close Tab27 at 0
-149:09:27 Tab27 WebContentsDestroyed
-149:09:27 Microsoft.Shutdown.OnWindowClosing
-149:09:27 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
-149:09:27 Widget Closed: BrowserFrame
-149:09:27 Microsoft.Shutdown.OnWindowClosing
-149:09:27 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
-149:09:27 Microsoft.Browser_Removed
-149:09:27 Browser28 Close Tab28 at 0
-149:09:27 Tab28 WebContentsDestroyed
-149:09:27 Microsoft.Shutdown.OnWindowClosing
-149:09:27 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
-149:09:27 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
-149:09:27 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
-149:09:27 Widget Closed: BrowserFrame
-149:09:27 Microsoft.Browser_Removed
-149:09:27 Microsoft.Shutdown.OnWindowClosing
-149:09:27 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
-149:09:27 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
-149:09:27 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
-149:09:27 Tab29 RenderProcessGone
-149:09:27 Browser29 Close Tab29 at 0
-149:09:27 Tab29 WebContentsDestroyed
-149:09:27 Microsoft.Shutdown.OnWindowClosing
-149:09:27 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
-149:09:27 Widget Closed: BrowserFrame
-149:09:27 Microsoft.Shutdown.OnWindowClosing
-149:09:27 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
-149:09:27 Microsoft.Last_Browser_Removed
-149:09:27 Microsoft.Shutdown.ShutdownIfNoBrowsers
-149:09:27 Microsoft.Shutdown.SetTryingToQuit_Quitting
-149:09:27 Microsoft.Shutdown.NotifyAppTerminating
-149:09:27 Microsoft.Shutdown.OnAppExiting
-149:09:27 Microsoft.Shutdown.HandleAppExitingForPlatform_Aura
-149:09:27 Microsoft.Shutdown.HandleAppExitingForPlatform_Aura.NotificationUIManager_StartShutdown
-149:09:27 Microsoft.Shutdown.HandleAppExitingForPlatform_Aura.CloseAllSecondaryWidgets
-149:09:28 Shutdown
+28:37:05 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+28:37:05 Tab83 RenderProcessGone
+28:37:05 Browser83 Close Tab83 at 0
+28:37:05 Tab83 WebContentsDestroyed
+28:37:05 Microsoft.Shutdown.OnWindowClosing
+28:37:05 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+28:37:05 Widget Closed: BrowserFrame
+28:37:05 Microsoft.Shutdown.OnWindowClosing
+28:37:05 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+28:37:05 Microsoft.Browser_Removed
+37:23:42 Memory Pressure: Moderate
+37:23:52 Memory Pressure: Moderate
+37:24:02 Memory Pressure: Moderate
+37:24:12 Memory Pressure: Moderate
+37:24:17 Memory Pressure: Critical
+37:24:22 Memory Pressure: Critical
+37:24:27 Memory Pressure: Moderate
+37:28:24 Microsoft.Shutdown.OnWindowClosing
+37:28:24 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+37:28:24 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+37:28:24 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+37:28:24 Tab82 RenderProcessGone
+37:28:24 Browser82 Close Tab82 at 0
+37:28:24 Tab82 WebContentsDestroyed
+37:28:24 Microsoft.Shutdown.OnWindowClosing
+37:28:24 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+37:28:24 Widget Closed: BrowserFrame
+37:28:24 Microsoft.Shutdown.OnWindowClosing
+37:28:24 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+37:28:24 Microsoft.Browser_Removed
+37:28:28 Microsoft.Shutdown.OnWindowClosing
+37:28:28 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+37:28:28 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+37:28:28 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+37:28:28 Tab56 RenderProcessGone
+37:28:28 Browser56 Close Tab56 at 0
+37:28:28 Tab56 WebContentsDestroyed
+37:28:28 Microsoft.Shutdown.OnWindowClosing
+37:28:28 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+37:28:28 Widget Closed: BrowserFrame
+37:28:28 Microsoft.Shutdown.OnWindowClosing
+37:28:28 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+37:28:28 Microsoft.Browser_Removed
+37:28:28 Microsoft.Shutdown.OnWindowClosing
+37:28:28 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+37:28:28 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+37:28:28 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+37:28:28 Tab57 RenderProcessGone
+37:28:28 Browser57 Close Tab57 at 0
+37:28:28 Tab57 WebContentsDestroyed
+37:28:28 Microsoft.Shutdown.OnWindowClosing
+37:28:28 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+37:28:28 Widget Closed: BrowserFrame
+37:28:28 Microsoft.Shutdown.OnWindowClosing
+37:28:28 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+37:28:28 Microsoft.Browser_Removed
+37:28:29 Microsoft.Shutdown.OnWindowClosing
